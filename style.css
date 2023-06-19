@@ -1,0 +1,73 @@
+.modal-content{
+    border-radius: 23px 23px 23px 23px;
+    height: 279px;
+}
+.modal-header{
+    background: #FFF200;
+    border-radius: 23px 23px 0px 0px;
+    font-family: 'Comic Sans MS';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 140%;
+    /* or 28px */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #1C1C1C;
+}
+.agreebtn{
+    background: #009AC9;
+    border: 3px solid #FFFFFF;
+    border-radius: 8px;
+    width: 135px;
+    height: 56px;
+    margin-bottom: 13px;
+    font-family: 'Comic Sans MS';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+.modal-body{
+    
+font-family: 'Comic Sans MS';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+display: flex;
+align-items: center;
+text-align: justify;
+letter-spacing: 0.03em;
+
+color: #1C1C1C;
+}
+
+/* cookie accept */
+.acceptbtn{
+    background: #009AC9;
+    border: 3px solid #FFFFFF;
+    border-radius: 13px;
+    font-family: 'Hobeaux';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 100%;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    width: 174px;
+    height: 74px;
+}
